@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-routing-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-routing",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-routing-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/routing.md",
+  "presentationPlan": "projects/crm/vue/routing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
